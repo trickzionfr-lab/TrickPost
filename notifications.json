@@ -284,5 +284,12 @@
     "from": "new",
     "to": "Trickz",
     "created_at": "2026-08-24T22:47:45.674Z"
+  },
+  {
+    "id": "n_1787612006293_cmmb9",
+    "type": "follow",
+    "from": "new",
+    "to": "Trickzioso",
+    "created_at": "2026-08-24T22:53:26.293Z"
   }
 ]
