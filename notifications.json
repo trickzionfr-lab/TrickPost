@@ -305,5 +305,12 @@
     "from": "new",
     "to": "Trickz",
     "created_at": "2026-08-24T23:13:32.968Z"
+  },
+  {
+    "id": "n_1788179261978_jenbf",
+    "type": "follow",
+    "from": "zennny",
+    "to": "Trickzion",
+    "created_at": "2026-08-31T12:27:41.978Z"
   }
 ]
